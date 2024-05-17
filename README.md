@@ -1,1 +1,0 @@
-Have a look at [JS.ORG](https://js.org) [(branch: master)](https://github.com/js-org/js.org/tree/master)
